@@ -33,15 +33,15 @@ public class Currency_Converter
 		INR = USD * 72.678100;		
 				
 				JOptionPane.showMessageDialog(null, "Here is the amount converted" + "\n" + 
-												" (EUR) Euro: 					" + EUR + "\n" +
-												" (GPB) Great Britain Pound(s): " + GBP + "\n" +
-												" (JPY) Japenese Yen:			" + JPY + "\n" +
-												" (CHF) Swiss Francs:			" + CHF + "\n" +
-												" (CAD) Canadian Dollars:		" + CHF + "\n" +
-												" (XBT) Bit Coin:				" + XBT + "\n" +
-												" (XAU) Gold Ounce(s):			" + XAU + "\n" +
-												" (PKR) Pakistani Rupees:		" + PKR + "\n" +
-												" (INR) Indian Rupees:			" + INR ); 
+				" (EUR) Euro: 					" + EUR + "\n" +
+				" (GPB) Great Britain Pound(s): " + GBP + "\n" +
+				" (JPY) Japenese Yen:			" + JPY + "\n" +
+				" (CHF) Swiss Francs:			" + CHF + "\n" +
+				" (CAD) Canadian Dollars:		" + CHF + "\n" +
+				" (XBT) Bit Coin:				" + XBT + "\n" +
+				" (XAU) Gold Ounce(s):			" + XAU + "\n" +
+				" (PKR) Pakistani Rupees:		" + PKR + "\n" +
+				" (INR) Indian Rupees:			" + INR ); 
 	}
 }
 
